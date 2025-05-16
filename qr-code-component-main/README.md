@@ -20,9 +20,6 @@ Esta es mi solución al reto [QR code component challenge en Frontend Mentor](ht
 
 ![Captura de pantalla del componente QR](image.png)
 
-### Enlaces
-- URL de la solución: [Agrega aquí la URL de tu repositorio]
-- Sitio en vivo: [Agrega aquí la URL de tu despliegue]
 
 ## Mi proceso
 
